@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_AQUI?tab=repositories">
+  <a href="https://github.com/5fdev?tab=repositories">
     <img src="https://img.shields.io/badge/>_D.BASE_QUERY-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="DB Query"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUI#QUANTUM_INTELLIGENCE">
+  <a href="https://github.com/5fdev#QUANTUM_INTELLIGENCE">
     <img src="https://img.shields.io/badge/>_SYSTEM_LOGS-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="System Logs"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUI#SECURE_CHANNEL">
+  <a href="https://github.com/5fdev#SECURE_CHANNEL">
     <img src="https://img.shields.io/badge/>_SECURE_UPLINK-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="Secure Uplink"/>
   </a>
 </p>
