@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre o Alias] 👋
+# ¡Hola! Soy 5fdev 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Especialista+en+OSINT+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;Desarrollador+FiveM+(Lua)+%F0%9F%9A%97;Arquitecto+de+Bots+Discord+%F0%9F%A4%96;Full-Stack+Developer+%E2%9A%A1" alt="Typing SVG" />
