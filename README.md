@@ -35,11 +35,11 @@ Soy un desarrollador enfocado en la ciberinvestigación, la automatización y la
 ## 📊 Mis Estadísticas en Código
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=5fdev&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5fdev&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
 </p>
 
 ---
