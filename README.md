@@ -14,7 +14,7 @@ Soy un desarrollador enfocado en la ciberinvestigación, la automatización y la
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Lenguajes & Entorno
 
 ### 🖥️ Lenguajes Principales
 <p align="left">
@@ -32,14 +32,18 @@ Soy un desarrollador enfocado en la ciberinvestigación, la automatización y la
 
 ---
 
-## 📊 Mis Estadísticas en Código
+## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5fdev&theme=tokyo-night&bg_color=1a1b27&color=39FF14&line=39FF14&point=FFFFFF&hide_border=true" alt="Gráfico de Actividad" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=5fdev&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Mis Trofeos" />
+<p align="left">
+  <a href="https://github.com/TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/github/followers/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Seguidores" alt="Followers"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUI?tab=repositories">
+    <img src="https://img.shields.io/github/repos/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Repositorios" alt="Repos"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/github/stars/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Estrellas%20Recibidas" alt="Stars"/>
+  </a>
 </p>
 
 ---
