@@ -55,14 +55,14 @@
 ## 📉 ./DEPLOYED_ASSETS
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=SYS.TRAFFIC&color=39FF14&style=for-the-badge&labelColor=000000" alt="Visitas" />
-  <a href="https://github.com/TU_USUARIO_AQUI?tab=repositories">
-    <img src="https://img.shields.io/github/repos/TU_USUARIO_AQUI?style=for-the-badge&logo=github&color=39FF14&labelColor=000000&label=VULNERABILITIES_REPOSITED" alt="Repositorios"/>
+  <img src="https://komarev.com/ghpvc/?username=5fdev&label=SYS.TRAFFIC&color=39FF14&style=for-the-badge&labelColor=000000" alt="Visitas" />
+  <a href="https://github.com/5fdev?tab=repositories">
+    <img src="https://img.shields.io/github/repos/5fdev?style=for-the-badge&logo=github&color=39FF14&labelColor=000000&label=VULNERABILITIES_REPOSITED" alt="Repositorios"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUI">
+  <a href="https://github.com/5fdev">
     <img src="https://img.shields.io/github/stars/TU_USUARIO_AQUI?style=for-the-badge&logo=github&color=39FF14&labelColor=000000&label=EXPLOITS_STARRED" alt="Stars"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUI">
+  <a href="https://github.com/5fdev">
     <img src="https://img.shields.io/github/followers/TU_USUARIO_AQUI?style=for-the-badge&logo=github&color=39FF14&labelColor=000000&label=AGENTS_MAPPED" alt="Followers"/>
   </a>
 </p>
