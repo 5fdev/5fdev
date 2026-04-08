@@ -100,21 +100,21 @@
 [!] OPERATOR_AVAILABILITY: [ANY_PROJECT]
 ```
 <p align="left">
-  <a href="https://discordapp.com/users/TU_ID_DE_DISCORD" target="_blank">
+  <a href="https://discordapp.com/users/5fa3edb20a2f09e7eb6d9c9495753843" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD_PROXY-000000?style=for-the-badge&logo=discord&logoColor=39FF14" alt="Discord Badge"/>
   </a>
-  <a href="mailto:tu_correo@proton.me" target="_blank">
+  <a href="mailto:5fdev@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/SECURE_EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=39FF14" alt="ProtonMail Badge"/>
   </a>
-  <a href="mailto:tu_correo@proton.me" target="_blank">
+  <a href="mailto:5fdev@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/>_FREELANCE_QUERY-000000?style=for-the-badge&logo=protonmail&logoColor=39FF14" alt="Freelance Query"/>
   </a>
   <br>
-  <code>[REDACTED_USER_ID] > 5fa3edb20a2f09e7eb6d9c9495753843 / [tu_correo@proton.me]</code><br>
+  <code>[REDACTED_USER_ID] > 5fa3edb20a2f09e7eb6d9c9495753843 / 5fdev@proton.me</code><br>
   <code>[OPERATOR_STATUS]  > [AVAILABLE_FOR_PROJECTS]</code>
 </p>
 
 <p align="center">
 <code>//_SYSTEM_STATUS:[SECURE]//</code><br>
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=_&color=000000&style=for-the-badge&labelColor=000000" alt="Invisible View Counter"/>
+<img src="https://komarev.com/ghpvc/?username=5fdev&label=_&color=000000&style=for-the-badge&labelColor=000000" alt="Invisible View Counter"/>
 </p>
