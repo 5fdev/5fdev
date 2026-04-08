@@ -32,11 +32,22 @@ Soy un desarrollador enfocado en la ciberinvestigación, la automatización y la
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas del Perfil
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=5fdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&hide_title=true&hide_rank=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5fdev&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=C9D1D9&hide_title=true" alt="Lenguajes más usados" />
+  <img src="https://komarev.com/ghpvc/?username=5fdev&label=Visitas+al+perfil&color=212121&style=for-the-badge&labelColor=151515" alt="Visitas al perfil" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/github/followers/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Seguidores" alt="Followers"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUI?tab=repositories">
+    <img src="https://img.shields.io/github/repos/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Repositorios" alt="Repositorios"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/github/stars/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Estrellas" alt="Stars"/>
+  </a>
 </p>
 
 ---
