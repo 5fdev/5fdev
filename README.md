@@ -49,7 +49,9 @@ Soy un desarrollador enfocado en la ciberinvestigación, la automatización y la
 Para proyectos, consultas sobre OSINT, o desarrollo de scripts, contáctame exclusivamente por Discord.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discordapp.com/users/TU_ID_DE_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
   <br>
   <b>Añádeme:</b> <code>5fa3edb20a2f09e7eb6d9c9495753843</code>
 </p>
