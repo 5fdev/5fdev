@@ -42,9 +42,6 @@ Soy un desarrollador enfocado en la ciberinvestigación, la automatización y la
   <a href="https://github.com/TU_USUARIO_AQUI">
     <img src="https://img.shields.io/github/followers/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Seguidores" alt="Followers"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUI?tab=repositories">
-    <img src="https://img.shields.io/github/repos/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Repositorios" alt="Repositorios"/>
-  </a>
   <a href="https://github.com/TU_USUARIO_AQUI">
     <img src="https://img.shields.io/github/stars/5fdev?style=for-the-badge&logo=github&color=212121&labelColor=151515&label=Estrellas" alt="Stars"/>
   </a>
