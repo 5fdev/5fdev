@@ -79,19 +79,16 @@
 
 ```
 <p align="left">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3D5fdev%26label%3DSYS.TRAFFIC%26color%3D39FF14%26style%3Dfor-the-badge%26labelColor%3D000000" alt="Visitas" />
-
-<a href="https://www.google.com/search?q=https://github.com/5fdev%3Ftab%3Drepositories">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VULNERABILITIES_MAPPED-ACTIVE-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D39FF14%26labelColor%3D000000" alt="Repositorios"/>
-</a>
-
-<a href="https://www.google.com/search?q=https://github.com/5fdev%3Ftab%3Dstars">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/EXPLOITS_FAVORED-ENCRYPTED-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D39FF14%26labelColor%3D000000" alt="Stars"/>
-</a>
-
-<a href="https://www.google.com/search?q=https://github.com/5fdev">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/TU_USUARIO_AQUI%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26color%3D39FF14%26labelColor%3D000000%26label%3DAGENTS_MAPPED" alt="Followers"/>
-</a>
+  <a href="https://github.com/5fdev?tab=repositories">
+    <img src="https://img.shields.io/badge/DATABASES-SECURED-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" alt="Repos"/>
+  </a>
+  <a href="https://github.com/5fdev?tab=stars">
+    <img src="https://img.shields.io/badge/EXPLOITS-ENCRYPTED-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" alt="Stars"/>
+  </a>
+  <a href="https://github.com/5fdev?tab=followers">
+    <img src="https://img.shields.io/badge/AGENTS-CLASSIFIED-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/SYS.TRAFFIC-MONITORED-000000?style=for-the-badge&logo=probot&logoColor=39FF14&labelColor=000000" alt="Traffic"/>
 </p>
 
 ## <a id="SECURE_CHANNEL"></a># [!] SECURE_UPLINK // CONTACT_MATRIX
