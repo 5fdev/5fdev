@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1500x300/000000/FFFFFF/?text=Tu+Nombre+-+Cross-Platform+Engineer+%26+Founder" alt="Banner Profile" width="100%" />
-</div>
-
-<h1 align="center">Hola, soy [Tu Nombre] 👨‍💻</h1>
+<h1 align="center">Hola, soy Eric Herreros 👨‍💻</h1>
 
 <p align="center">
-  <b>Desarrollador Multiplataforma Senior | Especialista en Arquitecturas Escalables | Fundador de CaNostra</b><br>
+  <b>Desarrollador Multiplataforma Junior | Especialista en Arquitecturas Escalables | Fundador de CaNostra</b><br>
   Construyendo productos digitales robustos desde la concepción hasta el despliegue en producción.
 </p>
 
